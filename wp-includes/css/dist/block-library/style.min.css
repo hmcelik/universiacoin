@@ -14,3 +14,4 @@
      width: 90% ;
     }
   }
+  .rmitem:hover{transform: scale(1.01); transition: 0.5s;}
